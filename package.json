@@ -1,0 +1,13 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "private": true,
+  "license": "proprietary",
+  "scripts": {
+    "start": "npx directus start"  
+  },
+  "dependencies": {
+    "directus": "^9.7.1",
+    "pg": "^8.5.1"
+  }
+}
